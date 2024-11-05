@@ -1,5 +1,1 @@
-1. 註冊後開啟自動播放
-2. 新增自簽憑證驗證
-3. 開機流程優化
-4. 優化MQTT連線，避免ANR
-5. 發送brand與model資訊
+1. Mqtt client null pointer
