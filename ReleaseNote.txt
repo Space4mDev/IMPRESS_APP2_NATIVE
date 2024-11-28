@@ -1,1 +1,4 @@
-1. Mqtt client null pointer
+1. AD續載功能
+2. 播放元件Pool
+3. 修正初始化分辨率設定
+4. APP瘦身
