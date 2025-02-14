@@ -1,1 +1,1 @@
-1. 新增Event Trigger
+1. 修正快訊閃退
