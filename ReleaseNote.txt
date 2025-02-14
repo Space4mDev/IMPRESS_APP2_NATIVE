@@ -1,2 +1,1 @@
-1. 修正Ping到子線程
-2. largeHeap
+1. 新增Event Trigger
