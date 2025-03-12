@@ -1,1 +1,3 @@
-1. 修正Android 5.1.1以下閃退
+1. CID 空字串，無法傳送Log
+2. MQTT上下線
+3. 插拔鍵盤Crash
