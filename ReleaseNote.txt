@@ -1,3 +1,3 @@
-1. SmartQueue
-2. 修正快訊重複下載問題
-3. Shuttle, MB546, DN72(7.1.2)截圖
+1. 修正 回報派送進度異常
+2. 修正 PlayRecord 未傳Ad name
+3. 修改 程序化購買 Log
