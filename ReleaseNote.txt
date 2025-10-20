@@ -1,1 +1,1 @@
-1. 修正派送清單中若為相同廣告，沒有回報進度的問題
+1. 新增ProjectSchedule LogStackTrace
