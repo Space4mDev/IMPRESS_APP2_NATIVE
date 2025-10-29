@@ -1,1 +1,2 @@
-1. 新增ProjectSchedule LogStackTrace
+1. 新增解壓縮標記
+2. 影片素材解碼檢查
